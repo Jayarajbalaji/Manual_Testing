@@ -1,4 +1,4 @@
-## 22/09/2026
+## 23/09/2026
 
 ## Write a Python program which accepts a sequence of comma separated 4 digit binary numbers as its input and then check whether they are divisible by 5 or not.The numbers that are divisible by 5 are to be printed in a comma separated sequence.
 ### Example:
